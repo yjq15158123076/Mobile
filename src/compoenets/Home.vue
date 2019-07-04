@@ -5,7 +5,7 @@
         <div class="main-y">
             <div class="collection-recommended-y">
                 <div class="top-title-y">
-                    <span>热门专题1111</span>
+                    <span>热门专题</span>
                     &nbsp; &nbsp; &nbsp;
                     <!--<span class="collection-change-y">换一换</span>-->
                 </div>
