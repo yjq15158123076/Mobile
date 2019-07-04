@@ -472,7 +472,7 @@
             ml(){
                 var yc=document.getElementsByClassName("yc-y")[0];
                 yc.style.left="-1.75rem";
-                window.event? window.event.cancelBubble = true : e.stopPropagation();
+                window.event? window.event.cancelBubble = true  : e.stopPropagation();
             },
             up(){
                     var yc=document.getElementsByClassName("yc-y")[0];

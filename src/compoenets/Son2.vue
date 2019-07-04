@@ -47,16 +47,16 @@
                     <div class="oneline-y">
                      <span>
                         <img src="../images/Son1/4.jpg" alt="">
-                      w我
+                      15.5
                     </span>
                         <span>行距版君</span>
                         <span>
                         <img src="../images/Son1/5.jpg" alt="">
-                        11111
+                        1
                     </span>
                         <span>
                         <img src="../images/Son1/6.jpg" alt="">
-                       1111
+                      54
                     </span>
 
                     </div>
@@ -75,16 +75,16 @@
                     <div class="oneline-y">
                      <span>
                         <img src="../images/Son1/4.jpg" alt="">
-                       1111111
+                       32.9
                     </span>
-                        <span>行距版君</span>
+                        <span>婠婠</span>
                         <span>
                         <img src="../images/Son1/5.jpg" alt="">
-                        11111
+                        13
                     </span>
                         <span>
                         <img src="../images/Son1/6.jpg" alt="">
-                       1111
+                      47
                     </span>
 
                     </div>
@@ -103,16 +103,16 @@
                     <div class="oneline-y">
                      <span>
                         <img src="../images/Son1/4.jpg" alt="">
-                       1111111
+                       246.2
                     </span>
-                        <span>行距版君</span>
+                        <span>简书大学堂</span>
                         <span>
                         <img src="../images/Son1/5.jpg" alt="">
-                        11111
+                        107
                     </span>
                         <span>
                         <img src="../images/Son1/6.jpg" alt="">
-                       1111
+                       112
                     </span>
 
                     </div>
@@ -131,16 +131,16 @@
                     <div class="oneline-y">
                      <span>
                         <img src="../images/Son1/4.jpg" alt="">
-                       1111111
+                      10.1
                     </span>
-                        <span>行距版君</span>
+                        <span>水晶的手绘生活</span>
                         <span>
                         <img src="../images/Son1/5.jpg" alt="">
-                        11111
+                        17
                     </span>
                         <span>
                         <img src="../images/Son1/6.jpg" alt="">
-                       1111
+                       52
                     </span>
 
                     </div>
@@ -159,16 +159,16 @@
                     <div class="oneline-y">
                      <span>
                         <img src="../images/Son1/4.jpg" alt="">
-                       1111111
+                       0.9
                     </span>
-                        <span>行距版君</span>
+                        <span>简书大学堂</span>
                         <span>
                         <img src="../images/Son1/5.jpg" alt="">
-                        11111
+                        2
                     </span>
                         <span>
                         <img src="../images/Son1/6.jpg" alt="">
-                       1111
+                       142
                     </span>
 
                     </div>
@@ -187,16 +187,16 @@
                     <div class="oneline-y">
                      <span>
                         <img src="../images/Son1/4.jpg" alt="">
-                       1111111
+                       1.1
                     </span>
-                        <span>行距版君</span>
+                        <span>简书大学堂</span>
                         <span>
                         <img src="../images/Son1/5.jpg" alt="">
-                        11111
+                        5
                     </span>
                         <span>
                         <img src="../images/Son1/6.jpg" alt="">
-                       1111
+                       122
                     </span>
 
                     </div>
@@ -215,16 +215,16 @@
                     <div class="oneline-y">
                      <span>
                         <img src="../images/Son1/4.jpg" alt="">
-                       1111111
+                       2.4
                     </span>
-                        <span>行距版君</span>
+                        <span>韩大爷杂货铺</span>
                         <span>
                         <img src="../images/Son1/5.jpg" alt="">
-                        11111
+                        12
                     </span>
                         <span>
                         <img src="../images/Son1/6.jpg" alt="">
-                       1111
+                       134
                     </span>
 
                     </div>
@@ -243,16 +243,16 @@
                     <div class="oneline-y">
                      <span>
                         <img src="../images/Son1/4.jpg" alt="">
-                       1111111
+                       0.6
                     </span>
-                        <span>行距版君</span>
+                        <span>临界冰</span>
                         <span>
                         <img src="../images/Son1/5.jpg" alt="">
-                        11111
+                        96
                     </span>
                         <span>
                         <img src="../images/Son1/6.jpg" alt="">
-                       1111
+                       452
                     </span>
 
                     </div>
@@ -271,16 +271,16 @@
                     <div class="oneline-y">
                      <span>
                         <img src="../images/Son1/4.jpg" alt="">
-                       1111111
+                       1.1
                     </span>
-                        <span>行距版君</span>
+                        <span>狸小猫</span>
                         <span>
                         <img src="../images/Son1/5.jpg" alt="">
-                        11111
+                        46
                     </span>
                         <span>
                         <img src="../images/Son1/6.jpg" alt="">
-                       1111
+                       320
                     </span>
 
                     </div>
@@ -299,16 +299,16 @@
                     <div class="oneline-y">
                      <span>
                         <img src="../images/Son1/4.jpg" alt="">
-                       1111111
+                       2.8
                     </span>
-                        <span>行距版君</span>
+                        <span>茜喵</span>
                         <span>
                         <img src="../images/Son1/5.jpg" alt="">
-                        11111
+                        21
                     </span>
                         <span>
                         <img src="../images/Son1/6.jpg" alt="">
-                       1111
+                       73
                     </span>
 
                     </div>
@@ -457,8 +457,8 @@
         margin: 0 -0.18rem;
         box-sizing: content-box;
         border-bottom: 0.01rem solid;
-        font-size: 0;
         border-color: #f0f0f0;
+        font-size: 0;
     }
 
     .box-y:before{
@@ -524,8 +524,13 @@
     }
 
     .oneline-y>span {
-        margin-right: 0.10rem;
+        margin-right: 0.05rem;
         color: #b4b4b4;
+        font-size: 0.12rem;
+    }
+    .oneline-y>span>img{
+        width: 0.15rem;
+        height: 0.15rem;
     }
 
 
