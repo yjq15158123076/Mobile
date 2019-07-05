@@ -196,7 +196,7 @@
         font-size: 0.14rem;
         line-height: 1.5;
         color: #333;
-        height: 0.65rem;
+        height: 0.60rem;
         overflow: hidden;
     }
 

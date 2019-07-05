@@ -363,26 +363,23 @@
     }
 
     .btn-y1{
-        margin-bottom: 0.17rem;
         padding: 0.08rem 0.48rem;
         font-size: 0.14rem;
-        display: inline-block;
+        display:block;
         height: 0.40rem;
         line-height: 0.28rem;
         color: #fff;
         background-color: #da9e55;
         width: 2.50rem;
         border-radius: 0.04rem!important;
-        float: left;
         text-align: center;
-        margin-left: 0.4rem;
+        margin: 0 auto 0.17rem;
     }
 
     .btn-y2{
-        margin-bottom: 0.17rem;
         padding: 0.08rem 0.48rem;
         font-size: 0.14rem;
-        display: inline-block;
+        display:block;
         height: 0.40rem;
         line-height: 0.28rem;
         color: #ea6f5a!important;
@@ -390,9 +387,9 @@
         background-color: #fff;
         width: 2.50rem;
         border-radius: 0.04rem!important;
-        float: left;
-        margin-left: 0.4rem;
+        margin: 0 auto 0.17rem;
     }
+
 
     hr{
         margin-left: -0.18rem;
